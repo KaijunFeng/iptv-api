@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250615033813 +0800">
+<tv date="20250615102847 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2357,6 +2357,18 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250615091900 +0800" stop="20250615110000 +0800">
 		<title lang="zh">我的爸爸是英雄</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250615110000 +0800" stop="20250615122900 +0800">
+		<title lang="zh">扎职2：江湖陌路</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250615122900 +0800" stop="20250615144200 +0800">
+		<title lang="zh">白蛇：浮生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250615144200 +0800" stop="20250615164200 +0800">
+		<title lang="zh">成为简b7奥斯汀</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250615164200 +0800" stop="20250615183000 +0800">
+		<title lang="zh">我的父亲焦裕禄</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
