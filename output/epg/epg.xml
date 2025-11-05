@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251104222456 +0800">
+<tv date="20251105102929 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1602,83 +1602,44 @@
 	<channel id="CHC动作电影">
 		<display-name lang="zh">CHC动作电影</display-name>
 	</channel>
-	<programme channel="CHC动作电影" start="20251105014300 +0800" stop="20251105014500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105014500 +0800" stop="20251105032600 +0800">
+	<programme channel="CHC动作电影" start="20251105014500 +0800" stop="20251105033000 +0800">
 		<title lang="zh">吕梁铁骨</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105032600 +0800" stop="20251105033000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105033000 +0800" stop="20251105045700 +0800">
+	<programme channel="CHC动作电影" start="20251105033000 +0800" stop="20251105050000 +0800">
 		<title lang="zh">冰雪大围捕</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105045700 +0800" stop="20251105050000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105050000 +0800" stop="20251105062900 +0800">
+	<programme channel="CHC动作电影" start="20251105050000 +0800" stop="20251105063000 +0800">
 		<title lang="zh">甲骨文密码</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105062900 +0800" stop="20251105063000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105063000 +0800" stop="20251105083600 +0800">
+	<programme channel="CHC动作电影" start="20251105063000 +0800" stop="20251105084000 +0800">
 		<title lang="zh">烈焰</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105083600 +0800" stop="20251105084000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105084000 +0800" stop="20251105101600 +0800">
+	<programme channel="CHC动作电影" start="20251105084000 +0800" stop="20251105102000 +0800">
 		<title lang="zh">维和防暴队</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105101600 +0800" stop="20251105102000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105102000 +0800" stop="20251105115300 +0800">
+	<programme channel="CHC动作电影" start="20251105102000 +0800" stop="20251105115500 +0800">
 		<title lang="zh">刑警兄弟</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105115300 +0800" stop="20251105115500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105115500 +0800" stop="20251105132300 +0800">
+	<programme channel="CHC动作电影" start="20251105115500 +0800" stop="20251105132500 +0800">
 		<title lang="zh">八极拳王</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105132300 +0800" stop="20251105132500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105132500 +0800" stop="20251105152600 +0800">
+	<programme channel="CHC动作电影" start="20251105132500 +0800" stop="20251105153000 +0800">
 		<title lang="zh">龙马精神</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105152600 +0800" stop="20251105153000 +0800">
-		<title lang="zh">动作导视</title>
 	</programme>
 	<programme channel="CHC动作电影" start="20251105153000 +0800" stop="20251105170500 +0800">
 		<title lang="zh">玉香诀</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105170500 +0800" stop="20251105190700 +0800">
-		<title lang="zh">动作导视,侏罗纪世界2</title>
+	<programme channel="CHC动作电影" start="20251105170500 +0800" stop="20251105191000 +0800">
+		<title lang="zh">侏罗纪世界2</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105190700 +0800" stop="20251105191000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105191000 +0800" stop="20251105202900 +0800">
+	<programme channel="CHC动作电影" start="20251105191000 +0800" stop="20251105203000 +0800">
 		<title lang="zh">太极拳</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105202900 +0800" stop="20251105203000 +0800">
-		<title lang="zh">动作导视</title>
+	<programme channel="CHC动作电影" start="20251105203000 +0800" stop="20251105220000 +0800">
+		<title lang="zh">火线追凶2之同名为仇</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251105203000 +0800" stop="20251105215700 +0800">
-		<title lang="zh">火线追凶之同名为仇</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105215700 +0800" stop="20251105220000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105220000 +0800" stop="20251105232700 +0800">
+	<programme channel="CHC动作电影" start="20251105220000 +0800" stop="20251105233000 +0800">
 		<title lang="zh">纳兰侍卫</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20251105232700 +0800" stop="20251105233000 +0800">
-		<title lang="zh">动作导视</title>
 	</programme>
 	<programme channel="CHC动作电影" start="20251105233000 +0800" stop="20251105235900 +0800">
 		<title lang="zh">明日战记</title>
@@ -1686,112 +1647,58 @@
 	<channel id="CHC家庭影院">
 		<display-name lang="zh">CHC家庭影院</display-name>
 	</channel>
-	<programme channel="CHC家庭影院" start="20251105014200 +0800" stop="20251105014500 +0800">
-		<title lang="zh">家庭导视</title>
+	<programme channel="CHC家庭影院" start="20251105011500 +0800" stop="20251105030500 +0800">
+		<title lang="zh">潜行</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20251105014500 +0800" stop="20251105031900 +0800">
-		<title lang="zh">英雄若兰</title>
+	<programme channel="CHC家庭影院" start="20251105030500 +0800" stop="20251105043500 +0800">
+		<title lang="zh">临时演员</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20251105031900 +0800" stop="20251105032000 +0800">
-		<title lang="zh">家庭导视</title>
+	<programme channel="CHC家庭影院" start="20251105043500 +0800" stop="20251105061500 +0800">
+		<title lang="zh">亲密旅行</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20251105032000 +0800" stop="20251105044600 +0800">
-		<title lang="zh">你美丽了我的人生</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105044600 +0800" stop="20251105045000 +0800">
-		<title lang="zh">家庭导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105045000 +0800" stop="20251105061600 +0800">
-		<title lang="zh">哀乐女子天团</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105061600 +0800" stop="20251105062000 +0800">
-		<title lang="zh">家庭导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105062000 +0800" stop="20251105081400 +0800">
-		<title lang="zh">拯救嫌疑人</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105081400 +0800" stop="20251105081500 +0800">
-		<title lang="zh">家庭导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105081500 +0800" stop="20251105100000 +0800">
-		<title lang="zh">唬胆特工</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105100000 +0800" stop="20251105100500 +0800">
-		<title lang="zh">家庭导视,垫播</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105100500 +0800" stop="20251105120200 +0800">
-		<title lang="zh">消失的她</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105120200 +0800" stop="20251105120500 +0800">
-		<title lang="zh">家庭导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105120500 +0800" stop="20251105133900 +0800">
-		<title lang="zh">寻亲记</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105133900 +0800" stop="20251105134000 +0800">
-		<title lang="zh">家庭导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105134000 +0800" stop="20251105150400 +0800">
-		<title lang="zh">斗地主</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105150400 +0800" stop="20251105150500 +0800">
-		<title lang="zh">家庭导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105150500 +0800" stop="20251105163200 +0800">
-		<title lang="zh">复制娇妻</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105163200 +0800" stop="20251105163500 +0800">
-		<title lang="zh">家庭导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105163500 +0800" stop="20251105183900 +0800">
-		<title lang="zh">热辣滚烫</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105183900 +0800" stop="20251105184000 +0800">
-		<title lang="zh">家庭导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20251105184000 +0800" stop="20251105201900 +0800">
+	<programme channel="CHC家庭影院" start="20251105061500 +0800" stop="20251105075500 +0800">
 		<title lang="zh">只要你过得比我好</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20251105201900 +0800" stop="20251105202000 +0800">
-		<title lang="zh">家庭导视</title>
+	<programme channel="CHC家庭影院" start="20251105075500 +0800" stop="20251105092000 +0800">
+		<title lang="zh">画江湖之不良帅</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20251105202000 +0800" stop="20251105215900 +0800">
-		<title lang="zh">百变爱人</title>
+	<programme channel="CHC家庭影院" start="20251105092000 +0800" stop="20251105104500 +0800">
+		<title lang="zh">人猴情</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20251105215900 +0800" stop="20251105220000 +0800">
-		<title lang="zh">家庭导视</title>
+	<programme channel="CHC家庭影院" start="20251105104500 +0800" stop="20251105121500 +0800">
+		<title lang="zh">隐私保险箱</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20251105220000 +0800" stop="20251105233400 +0800">
-		<title lang="zh">最后的警察</title>
+	<programme channel="CHC家庭影院" start="20251105121500 +0800" stop="20251105135500 +0800">
+		<title lang="zh">我爱你，冤家</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20251105233400 +0800" stop="20251105233500 +0800">
-		<title lang="zh">家庭导视</title>
+	<programme channel="CHC家庭影院" start="20251105135500 +0800" stop="20251105152500 +0800">
+		<title lang="zh">断片之险途夺宝</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20251105152500 +0800" stop="20251105170500 +0800">
+		<title lang="zh">外公芳龄38</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20251105170500 +0800" stop="20251105183500 +0800">
+		<title lang="zh">高跟鞋先生</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20251105183500 +0800" stop="20251105203500 +0800">
+		<title lang="zh">陪安东尼度过漫长岁月</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20251105203500 +0800" stop="20251105220000 +0800">
+		<title lang="zh">极速保镖</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20251105220000 +0800" stop="20251105233500 +0800">
+		<title lang="zh">宝可梦：超梦的逆袭进化</title>
 	</programme>
 	<programme channel="CHC家庭影院" start="20251105233500 +0800" stop="20251105235900 +0800">
-		<title lang="zh">我经过风暴</title>
+		<title lang="zh">平凡英雄</title>
 	</programme>
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20251105000000 +0800" stop="20251105011200 +0800">
-		<title lang="zh">打工老板</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20251105011200 +0800" stop="20251105040000 +0800">
-		<title lang="zh">我说的都是真的</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20251105040000 +0800" stop="20251105043200 +0800">
-		<title lang="zh">我说的都是真的</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20251105043200 +0800" stop="20251105060000 +0800">
-		<title lang="zh">我说的都是真的</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20251105060000 +0800" stop="20251105072900 +0800">
 		<title lang="zh">时间中的孩子</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20251105072900 +0800" stop="20251105080000 +0800">
-		<title lang="zh">这就是命</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20251105080000 +0800" stop="20251105090800 +0800">
+	<programme channel="CHC高清电影" start="20251105072900 +0800" stop="20251105090800 +0800">
 		<title lang="zh">这就是命</title>
 	</programme>
 	<programme channel="CHC高清电影" start="20251105090800 +0800" stop="20251105105700 +0800">
@@ -2546,6 +2453,30 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251105035300 +0800" stop="20251105052900 +0800">
 		<title lang="zh">血战漫川关</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105052900 +0800" stop="20251105070600 +0800">
+		<title lang="zh">蜀山：新蜀山剑侠</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105070600 +0800" stop="20251105084400 +0800">
+		<title lang="zh">三生三世花之殇</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105084400 +0800" stop="20251105101800 +0800">
+		<title lang="zh">小杂工</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105101800 +0800" stop="20251105121200 +0800">
+		<title lang="zh">航海王：红发歌姬</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105121200 +0800" stop="20251105134000 +0800">
+		<title lang="zh">混世四猴：神猴归来</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105134000 +0800" stop="20251105152100 +0800">
+		<title lang="zh">外来书记</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105152100 +0800" stop="20251105165200 +0800">
+		<title lang="zh">摩登澡堂</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105165200 +0800" stop="20251105182500 +0800">
+		<title lang="zh">昆仑神宫</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
