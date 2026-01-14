@@ -1,11 +1,14 @@
 🕘️更新时间,#genre#
-2026-01-14 06:30:17,http://23.237.228.134/live5/CCTV3.m3u8
+2026-01-14 18:33:31,http://23.237.228.134/live5/CCTV3.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-4,http://btjg.net:809/hls/144/index.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-8,http://23.237.228.134/live5/CCTV8.m3u8
+CCTV-9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8
+CCTV-15,http://69.30.246.194/live/cctv15.m3u8
+CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
@@ -22,15 +25,18 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
+纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
+天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
+星空卫视,http://111.221.137.155:44330/tsfile/live/0139_1.m3u8?key=txiptv
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
