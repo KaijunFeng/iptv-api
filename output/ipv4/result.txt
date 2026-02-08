@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-02-08 18:35:46,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-09 06:35:39,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
-CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
