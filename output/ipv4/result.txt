@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-03-17 07:06:51,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+2026-03-17 18:58:18,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
+CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
@@ -11,5 +13,7 @@
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 
 🎬电影频道,#genre#
+CHC家庭影院,http://156.238.248.80:8880/play/59.m3u8
+CHC动作电影,http://156.238.248.80:8880/play/58.m3u8
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
