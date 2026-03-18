@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-18 06:41:20,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-18 18:58:05,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
@@ -12,7 +12,5 @@ CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 
 🎬电影频道,#genre#
-CHC家庭影院,http://156.238.248.80:8880/play/59.m3u8
-CHC动作电影,http://156.238.248.80:8880/play/58.m3u8
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
