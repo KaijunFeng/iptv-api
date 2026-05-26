@@ -1,11 +1,16 @@
 🕘️更新时间,#genre#
-2026-05-26 07:12:14,http://74.91.26.218:82/live/cctv5hd.m3u8
+2026-05-27 07:15:04,http://101.66.199.101:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
-CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-2,http://101.66.199.101:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
+CCTV-7,http://101.66.199.183:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-7,http://101.66.199.101:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-9,http://101.66.199.183:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-11,http://101.66.199.183:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV-15,http://101.66.199.183:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 🌊港·澳·台,#genre#
