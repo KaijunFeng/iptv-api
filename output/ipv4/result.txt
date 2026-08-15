@@ -1,14 +1,39 @@
 🕘️更新时间,#genre#
-2026-08-15 06:30:02,http://139.227.21.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-15 18:31:05,http://123.118.53.84:45237/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
-CCTV-5,http://139.227.21.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://220.192.165.126:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://123.118.53.84:45237/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://123.118.53.84:45237/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://171.38.148.188:9003/hls/2/index.m3u8
+CCTV-3,http://171.38.148.188:9003/hls/3/index.m3u8
+CCTV-3,http://123.118.53.84:45237/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://1.190.240.47:9003/hls/3004/index.m3u8
+CCTV-4,http://171.38.148.188:9003/hls/20/index.m3u8
+CCTV-5,http://171.38.148.188:9003/hls/141/index.m3u8
+CCTV-5,http://111.8.242.127:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://123.118.53.84:45237/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://123.118.55.165:45237/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://1.190.240.47:9003/hls/3018/index.m3u8
+CCTV-6,http://123.175.209.118:9003/hls/7/index.m3u8
+CCTV-6,http://171.38.148.188:9003/hls/6/index.m3u8
+CCTV-7,http://123.175.209.118:9003/hls/8/index.m3u8
+CCTV-7,http://171.38.148.188:9003/hls/7/index.m3u8
+CCTV-8,http://1.190.240.47:9003/hls/3008/index.m3u8
+CCTV-8,http://223.78.65.165:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://1.190.240.47:9003/hls/3009/index.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-15,http://61.162.52.6:8088/newlive/live/hls/16/live.m3u8
+CCTV-10,http://1.190.240.47:9003/hls/3010/index.m3u8
+CCTV-11,http://123.175.209.118:9003/hls/12/index.m3u8
+CCTV-12,http://223.78.65.165:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://123.175.209.118:9003/hls/13/index.m3u8
+CCTV-14,http://1.190.240.47:9003/hls/3014/index.m3u8
+CCTV-15,http://171.38.148.188:9003/hls/15/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-17,http://123.175.209.118:9003/hls/18/index.m3u8
+CCTV-17,http://171.38.148.188:9003/hls/17/index.m3u8
+CETV-1,http://111.8.242.127:9999/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-1,http://111.8.224.6:9999/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-4,http://139.214.181.174:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-4,http://111.8.224.6:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-4,http://111.8.242.127:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
@@ -18,4 +43,6 @@ CCTV-17,http://123.175.209.118:9003/hls/18/index.m3u8
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 
 🎬电影频道,#genre#
+CHC家庭影院,http://171.38.148.188:9003/hls/112/index.m3u8
+CHC动作电影,http://171.38.148.188:9003/hls/100/index.m3u8
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
