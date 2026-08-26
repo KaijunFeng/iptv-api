@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-26 06:33:30,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-08-26 18:40:47,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -13,6 +13,4 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 
 🎬电影频道,#genre#
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
-东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
